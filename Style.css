@@ -1,2 +1,18 @@
-     text-align:center;
-    
+.center 
+{
+  align-items: center ;
+  justify-content: center ; 
+}
+
+#banner{
+  background-color:rgb(164, 207, 204);
+  color:rgb(0, 0, 0);
+  padding:20 px;
+}
+
+font
+#footer{
+  background-color:rgb(149, 149, 170);
+  color:white;
+  padding:20 px;
+}
